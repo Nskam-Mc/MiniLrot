@@ -1,0 +1,17 @@
+{
+  "name": "MinecraftLrot",
+  "version": "1.0.0",
+  "description": "Mini Lrot for 24/7 hosting",
+  "main": "MiniLrot.js",
+  "scripts": {
+    "start": "node MiniLrot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.15.0",
+    "express": "^4.17.1",
+    "dotenv": "^10.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
